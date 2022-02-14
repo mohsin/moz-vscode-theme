@@ -19,7 +19,17 @@
 		"input.background": "#FFFFFF",
 		"input.foreground": "#000000",
 		"quickInput.foreground": "#454A55",
-		"quickInput.background": "#EBEDEF"
+		"quickInput.background": "#EBEDEF",
+		"gitDecoration.addedResourceForeground": "#000000",
+		"gitDecoration.renamedResourceForeground": "#000000",
+		"gitDecoration.conflictingResourceForeground": "#000000",
+		"gitDecoration.deletedResourceForeground": "#000000",
+		"gitDecoration.ignoredResourceForeground": "#000000",
+		"gitDecoration.modifiedResourceForeground": "#000000",
+		"gitDecoration.stageDeletedResourceForeground": "#000000",
+		"gitDecoration.stageModifiedResourceForeground": "#000000",
+		"gitDecoration.submoduleResourceForeground": "#000000",
+		"gitDecoration.untrackedResourceForeground": "#000000",
 	},
 	"tokenColors": [
 		{
