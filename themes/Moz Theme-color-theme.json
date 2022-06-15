@@ -15,7 +15,7 @@
 		"foreground": "#FFFFFF",
 		"list.activeSelectionForeground": "#000000",
 		"list.activeSelectionBackground": "#D5D1DC",
-		"list.hoverBackground": "#DCDDE0",
+		"list.hoverBackground": "#676767",
 		"input.background": "#FFFFFF",
 		"input.foreground": "#000000",
 		"quickInput.foreground": "#454A55",
